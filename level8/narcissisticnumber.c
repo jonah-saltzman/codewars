@@ -4,11 +4,11 @@ restrict ourselves to decimal (base 10).
 
 The Challenge:
 
-Your code must return true or false depending upon whether the given number is a Narcissistic number in base 10.
+Your code must return true or false depending upon whether the given number is a 
+Narcissistic number in base 10.
 
-Error checking for text strings or other invalid inputs is not required, only valid positive non-zero integers will be passed into the function.
-
-*/
+Error checking for text strings or other invalid inputs is not required, only valid positive 
+non-zero integers will be passed into the function. */
 
 //My solution
 
