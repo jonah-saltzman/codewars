@@ -68,6 +68,7 @@ def encode_rail_fence_cipher(string, n):
                 string += rails[i][j]
     return string
 
+# decoder function
 def decode_rail_fence_cipher(string, n):
     
     # initialize rails exactly as in the encoder function
